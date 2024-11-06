@@ -1,0 +1,99 @@
+{
+    "":" ",
+    "undefined":" ",
+
+    "firstname": "Litvinov",
+    "lastname": "Vladimir",
+    "posada": "Front-End Developer",
+    "adress": "https://t.me/Vlad_Lit1991",
+
+    "summary": "Frontend developer with full-stack knowledge, experienced in developing a variety of corporate applications, including complex marketplaces, e-commerce platforms, educational portals, CRM systems, and various fintech solutions.",
+
+    "summary2": "I specialize in implementing advanced technological solutions to create products that accelerate business objectives and maximize user experience.",
+
+
+    "skills": "Key Skills",
+    "exp": "Professional Experiance",
+    "port": "Portfolio examples",
+
+    "1": "Programming Languages",
+    "2": "Frontend ",
+    "3": "Styling",
+    "4": "UI Libraries",
+    "5": "Data Visualization",
+    "6": "Build Tools",
+    "7": "Version Control",
+    "8": "API Integration",
+    "9": "Backend",
+    "10": "Databases",
+    "11": "Testing",
+    "12": "Tools",
+
+
+    "add": "Additional skills",
+
+    "add1": "Implementation of server-side rendering",
+    "add2": "Version control systems and CI/CD pipeline",
+    "add3": "Search Engine Optimization",
+    "add4": "UI/UX Interface Design",
+    "add5": "Responsive and cross-browser web applications",
+    "add6": "Application testing",
+    "add7": "Сode reviews",
+    "add8": "Clean Code and SOLID principles",
+    "add9": "Agile/Scrum methodology",
+    "add10": "Сonducting conferences",
+
+
+    
+    "job1": "Regional CNT Company",
+    "job11": "Frontend Developer",
+    "job111": "06/2020 - Present",
+    "job1111": "Team developing marketplace. Creating online stores, CRM system, and modular  libraries.",
+
+    "job11111": "Development of B2C marketplace platform",
+    "job111111": "Product management and vendor balance administration",
+    "job1111111": "Integration with payment systems and delivery services",
+    "job11111111": "Real-time inventory tracking system",
+    "job111111111": "Analytics reports for merchants",
+
+    "job01": "E-commerce platforms maintenance",
+    "job011": "Performance optimization and feature enhancement",
+    "job0111": "Integration with third-party APIs",
+    "job01111": "Responsive design implementation",
+
+
+
+    "job2": "Invest-Сom",
+    "job22": "Frontend Developer",
+    "job222": "05/2017 - 05/2020",
+    "job2222": "Development of the CRM system",
+
+    "job22222": "Customer data management and analytics",
+    "job222222": "KPI monitoring dashboards",
+    "job2222222": "Business process automation",
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "end": ""
+}
